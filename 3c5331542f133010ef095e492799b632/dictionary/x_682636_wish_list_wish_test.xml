@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Wish Test" max_length="40" name="x_682636_wish_list_wish_test" type="collection">
+        <element label="Test_Description" max_length="40" name="test_description" type="string"/>
+        <element label="Test_ID" max_length="40" name="test_id" type="integer"/>
+    </element>
+</database>
