@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="quanlity" label="Quanlity" language="en" table="x_682636_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>quanlity</element>
+            <help/>
+            <hint/>
+            <label>Quanlity</label>
+            <language>en</language>
+            <name>x_682636_wish_list_wish_item</name>
+            <plural>Quanlities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2021-10-18 02:25:34</sys_created_on>
+            <sys_id>6c16de8d2fdb3010ef095e492799b69e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quanlity</sys_name>
+            <sys_package display_value="Wish List" source="x_682636_wish_list">3c5331542f133010ef095e492799b632</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">3c5331542f133010ef095e492799b632</sys_scope>
+            <sys_update_name>sys_documentation_x_682636_wish_list_wish_item_quanlity_en</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2021-10-18 02:25:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
